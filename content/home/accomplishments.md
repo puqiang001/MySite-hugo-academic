@@ -7,11 +7,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+title: 'Teaching'
+subtitle: As Laboratory Instructor
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,30 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - date_end: '2022-05-30'
+    date_start: '2017-08-01'
+    description: Cross-listed Undergrads/Grads. 40 students in Fall 2019, 47 students in Fall 2021 (InPerson/Remote), 26 students in Spring 2022. Introduced fundamental concepts in GIScience and provided hands-on exercises using ArcGIS Pro. Students are expected to build skills for elementary GIS internships.
+    organization: GEO481_GEO506
+    title: Geographical Information Systems (Laboratory) | UB
+  - date_end: '2022-05-30'
+    date_start: '2017-08-01'
+    description: Cross-listed Undergrads/Grads. 21 students in Spring 2019, 33 students in Spring 2020, 29 students in Spring 2021 (Remote), 27 students in Spring 2022. Introduced advanced GIS methods and techniques for environmental modeling. Presented a series of laboratory exercises on environmental modeling/analysis using ArcGIS Pro&Online. Provided guidance on research project design and implementation.
+    organization: GEO479_GEO559
+    title: GIS for Environmental Modeling (Laboratory) | UB
+  - date_end: '2022-05-30'
+    date_start: '2017-08-01'
+    organization: GEO483_GEO553
+    title: Remote Sensing (Laboratory) | UB
+    description: Cross-listed Undergrads/Grads. 22 students in Fall 2018; 29 students in Fall 2020 (Remote). Introduced principles of remote sensing and guided a series of digital image processing tasks with the software of ENVI (primary) and Google Earth Engine.
+
 
 design:
   columns: '2'

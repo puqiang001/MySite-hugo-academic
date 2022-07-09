@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 125
 
 title: Skills
 subtitle:
@@ -16,18 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Data analytics and modeling
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: (Geo)Statistical modeling
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: Modeling for tabular data
+    icon: laptop-code
     icon_pack: fas
-    name: Photography
+    name: Machine Learning
+  - description: Data analytics and modeling
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: ArcGIS Suite, ENVI, Google Earth Engine, LaTex, SAS
+    icon: desktop
+    icon_pack: fas
+    name: Software Tools
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Journal Articles'
 
 content:
   # Filter on criteria
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+ [Filtering publications](./publication/).
 {{% /callout %}}
