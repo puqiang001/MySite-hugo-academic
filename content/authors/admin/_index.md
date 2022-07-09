@@ -77,4 +77,4 @@ Hello! This is Qiang Pu. I'm a Ph.D. candidate in the [Department of Geography](
 
 I received a M.S. in Cartography and GIS and a B.S. in Geomatics Engineering both from School of Geosciences and Info-physics at [Central South University](https://en.csu.edu.cn/). I am currently a member of [GEOEH Lab](https://ubwp.buffalo.edu/geoeh/home/) at UB.
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/CV_QiangPu.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/CV_QiangPu_052022.pdf" "newtab" >}}CV{{< /staticref >}}.
