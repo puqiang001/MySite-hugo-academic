@@ -23,13 +23,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Fellow
+    company: Emory University
+    company_url: ''
+    company_logo: EmoryLogo
+    location: Atlanta
+    date_start: '2023-02-15'
+    date_end: ''
+    description: |2-
+        Supervisor: Dr. Yang Liu
+
+
   - title: Research Assistant
     company: University at Buffalo
     company_url: ''
     company_logo: ublogo
     location: Buffalo
     date_start: '2022-06-01'
-    date_end: ''
+    date_end: '2022-10-01'
     description: |2-
         Supervisor: Dr. Jessie Poon
 

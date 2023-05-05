@@ -25,12 +25,12 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: qiangpu@buffalo.edu
+  email: qpu5@emory.edu
   address:
-    street: 140 Wilkeson Quad.
-    city: Amherst
-    region: NY
-    postcode: '14228'
+    street: 7036 Claudia Nance Rollins Building
+    city: Atlanta
+    region: GA
+    postcode: '30329'
     country: United States
     country_code: US
 #  coordinates:
